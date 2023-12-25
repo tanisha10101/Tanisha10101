@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # Hi there 👋, My name is Tanisha Bansal
 
 I'm a Second year Computer Science and Artificial Intelligence Undergraduate at IGDTUW. 
