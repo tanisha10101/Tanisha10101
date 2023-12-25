@@ -28,7 +28,9 @@ I have a keen interest in coding and designing.
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/canva-%23000000.svg?style=for-the-badge&logo=canva&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"  style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/staruml-%230072C6.svg?style=for-the-badge&logo=staruml&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/adobe%20xd-%230066FF.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"   style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 </p>
