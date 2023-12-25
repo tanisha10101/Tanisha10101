@@ -33,6 +33,8 @@ I have a keen interest in coding and designing.
 <img src="https://img.shields.io/badge/adobe%20xd-%230066FF.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"   style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"  style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/data%20science-%233776AB.svg?style=for-the-badge" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/machine%20learning-%23F69220.svg?style=for-the-badge"  style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 👥 Connect With Me
