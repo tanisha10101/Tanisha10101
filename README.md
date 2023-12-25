@@ -42,15 +42,11 @@ I have a keen interest in coding and designing.
 <a href="[https://linkedin.com/in/https://www.linkedin.com/in/tanisha-bansal-7869a6255/](https://www.linkedin.com/in/tanisha-bansal-7869a6255)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
 ## 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=tanisha10101">
 </p>
 
-## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha10101&layout=compact"><p>
