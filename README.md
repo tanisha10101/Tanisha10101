@@ -1,7 +1,7 @@
 
 # Hi there 👋, My name is Tanisha Bansal
 
-I'm a Second year Computer Science and Artificial Intelligence Undergraduate at IGDTUW. 
+I'm a 3rd year Computer Science and Artificial Intelligence Undergraduate at IGDTUW. 
 I have a keen interest in coding and designing.
 
 ## 💫 Liitle Bit More About Me
