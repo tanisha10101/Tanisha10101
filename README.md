@@ -5,20 +5,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanisha10101" alt="tanisha10101" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
 
-- 🌱 I’m currently learning **Android Development**
+---
 
-- 👯 I’m looking to collaborate on **Machine Learning and Full Stack Projects**
+## 🌟 About Me  
 
-- ⚡ Fun fact **When I’m not coding, you’ll find me painting, singing, or dancing.**
+I’m **Tanisha Bansal**, a **3rd-year undergraduate at IGDTUW, Delhi, India**, pursuing a **B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence**. My academic focus and projects reflect a deep interest in Machine Learning, Deep Learning, and Full-Stack Development.  
 
+- 🔭 **Current Work:** Actively working on Machine Learning and Deep Learning projects that solve practical challenges.  
+- 🌱 **Learning Journey:** Expanding my knowledge in Android Development to build versatile and user-focused applications.  
+- 🤝 **Collaboration Interests:** Open to collaborating on innovative projects in Machine Learning, Artificial Intelligence, and Full-Stack Development.  
+- ⚡ **Outside of Work:** I enjoy engaging in creative pursuits like painting, dancing and singing.
+
+I’m always eager to learn, grow, and contribute to meaningful projects, whether independently or as part of a team. Let’s connect and explore opportunities to create impactful solutions.  
+
+---  
 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-bansal-7869a6255/)
 
-
+---  
 
 ## 💻  Languages and Tools:
 <p align="left">
@@ -117,6 +124,7 @@
   </a>
 </p>
 
+---  
 
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha10101&show_icons=true&locale=en&layout=compact" alt="tanisha10101" /></p>
@@ -125,6 +133,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha10101&" alt="tanisha10101" /></p>
 
+---  
+
+### Contributions:
 
 [![An image of @tanishabansal06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishabansal06)](https://holopin.io/@tanishabansal06)
 
