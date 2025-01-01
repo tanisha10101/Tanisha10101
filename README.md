@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha10101&" alt="tanisha10101" /></p>
 
+[![Holopin Badge](https://cdn.holopin.io/badges/tanishabansal06)](https://holopin.io/@tanishabansal06)
+
