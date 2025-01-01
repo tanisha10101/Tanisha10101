@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
 
 I’m **Tanisha Bansal**, a **3rd-year undergraduate at IGDTUW, Delhi, India**, pursuing a **B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence**. My academic focus and projects reflect a deep interest in Machine Learning, Deep Learning, and Full-Stack Development.  
 
