@@ -131,7 +131,7 @@
 ---
 ### ☕ Coding and Coffee: A Developer's Bliss  
 <div align="center">
-  <img src="img/coffee.jpg" width="500" />
+  <img src="img/coffee.jpg" width="250" />
   <p><em>"Behind every great code, there’s a cup of coffee brewing in the background."</em></p>
 </div>
 
