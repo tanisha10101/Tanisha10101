@@ -118,12 +118,13 @@
 </p>
 
 
-
+## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha10101&show_icons=true&locale=en&layout=compact" alt="tanisha10101" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanisha10101&show_icons=true&locale=en" alt="tanisha10101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha10101&" alt="tanisha10101" /></p>
+
 
 [![An image of @tanishabansal06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishabansal06)](https://holopin.io/@tanishabansal06)
 
