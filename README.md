@@ -24,7 +24,8 @@ I’m always eager to learn, grow, and contribute to meaningful projects, whethe
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-bansal-7869a6255/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@yourmediumprofilelink](https://medium.com/@tanishabansal06))
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanishabansal06)
+
 
 
 ---  
